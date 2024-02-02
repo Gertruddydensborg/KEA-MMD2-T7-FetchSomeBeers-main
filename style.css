@@ -24,7 +24,7 @@ h2 {
   gap: 1rem;
 }
 
-.beer_container article {
+.beer_article {
   background-color: rgb(238, 230, 220);
   padding: 2rem;
   display: flex;
